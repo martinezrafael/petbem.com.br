@@ -1,0 +1,12 @@
+{
+  "name": "petbem.com.br",
+  "version": "1.0.0",
+  "description": "Proporcionamos tranquilidade e conveniência para cuidar da saúde e bem-estar do seu amado pet, oferecendo acesso rápido a uma rede de profissionais veterinários confiáveis, agendamento simplificado de consultas e exames, além de uma comunidade online para a troca de informações entre pais de pet!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rafael Molina Martinez",
+  "license": "ISC"
+}
